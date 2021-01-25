@@ -52,4 +52,3 @@ class Expenses():
         
         return [necessary_expenses, food_expenses, unnecessary_expenses]
 
-        divided_set_comp = expenses.categorize_set_comprehension()
